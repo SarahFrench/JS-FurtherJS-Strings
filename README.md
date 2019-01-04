@@ -1,0 +1,2 @@
+# JS-FurtherJS-Strings
+Strings
